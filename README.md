@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on polishing my Advanced Python Skills 🐍<br>👯 I’m looking to collaborate on anything interesting, Just bring it on !<br>🤝 I’m looking to connect with my community 🔗<br>🌱 I’m currently learning Java and DSA.<br>💬 Ask me about anything, I'd love to help in any way I can :)<br>⚡ EXPERIENCE is the name everyone gives to their MISTAKES & In order TO BE IRREPLACEABLE, one must ALWAYS BE DIFFERENT.
+🔭 I’m currently working on polishing my Advanced Python Skills 🐍<br>👯 I’m looking to collaborate on anything interesting, Just bring it on !<br>🤝 I’m looking to connect with my community 🔗<br>🌱 I’m currently learning Advanced DSA & Django.<br>💬 Ask me about anything, I'd love to help in any way I can :)<br>⚡ EXPERIENCE is the name everyone gives to their MISTAKES & In order TO BE IRREPLACEABLE, one must ALWAYS BE DIFFERENT.
 
 
 ## 🌐 Socials:
