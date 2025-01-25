@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]() 
 
 # 💫 About Me:
 🔭 I’m currently working on polishing my Advanced Python Skills 🐍<br>👯 I’m looking to collaborate on anything interesting, Just bring it on !<br>🤝 I’m looking to connect with my community 🔗<br>🌱 I’m currently learning Advanced DSA & Django.<br>💬 Ask me about anything, I'd love to help in any way I can :)<br>⚡ EXPERIENCE is the name everyone gives to their MISTAKES & In order TO BE IRREPLACEABLE, one must ALWAYS BE DIFFERENT.
