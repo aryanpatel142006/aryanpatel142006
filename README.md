@@ -1,8 +1,11 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 # 💫 About Me:
 🔭 I’m currently working on polishing my Advanced Python Skills 🐍<br>👯 I’m looking to collaborate on anything interesting, Just bring it on !<br>🤝 I’m looking to connect with my community 🔗<br>🌱 I’m currently learning Advanced DSA & Django.<br>💬 Ask me about anything, I'd love to help in any way I can :)<br>⚡ EXPERIENCE is the name everyone gives to their MISTAKES & In order TO BE IRREPLACEABLE, one must ALWAYS BE DIFFERENT.
 
-
 ## 🌐 Socials:
+
+### 🖥️Personal Website: 🌍 https://aryanpatel.dino.icu
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanpatel142006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanpatel142006) 
 
 # 💻 Tech Stack:
