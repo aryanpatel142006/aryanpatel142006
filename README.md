@@ -5,7 +5,11 @@
 
 ## 🌐 Socials:
 
-### 🖥️Personal Website: 🌍 https://aryanpatel.dino.icu 🌍 https://aryan.is-a.dev/ 
+### 🖥️Personal Website: <br>
+🌍 https://aryan.is-a.dev/ 
+<br>
+🌍 https://aryanpatel.dino.icu  
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanpatel142006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanpatel142006) 
 
 # 💻 Tech Stack:
